@@ -21,11 +21,11 @@ repository               : "cocoyamo/cocoyamo.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "bio-photo-2.jpg"
+  avatar           : "moya_profile.jpg"
   name             : "Moya Chu"
   pronouns         : "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Reykjavik/Taipei/North Carolina"
+  location         : "Reykjavik / Taipei / North Carolina"
   employer         : "not yet uni"
   uri              : # URL
   email            : "moyachumo@gmail.com" 
