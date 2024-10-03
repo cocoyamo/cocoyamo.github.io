@@ -6,10 +6,10 @@
 
 main:
   - title: "Projects"
-    url: /publications/
+    url: /projects/
 
   - title: "Collaborations"
-    url: /publications/
+    url: /collaborations/
 
   - title: "Publications"
     url: /publications/
@@ -18,7 +18,7 @@ main:
     url: /cv/
 
   - title: "Footprint"
-    url: /publications/
+    url: /footprint/
     
  # - title: "Talks"
  #   url: /talks/    
