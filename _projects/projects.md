@@ -1,15 +1,9 @@
 ---
-title: 'Project number 1'
+title: "Project 1"
 collection: projects
+permalink: /project/project-1
+excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+date: 2023
 ---
 
-This is a sample blog post. Lorem ipsum I can't remember the rest of lorem ipsum and don't have an internet connection right now. Testing testing testing this blog post. Blog posts are cool.
-
-Headings are cool
-======
-
-You can have many headings
-======
-
-Aren't headings cool?
-------
+My pervious projects
