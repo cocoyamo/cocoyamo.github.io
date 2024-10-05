@@ -9,8 +9,11 @@ redirect_from:
 ---
 
 🧠 My research interests are in cognitive neuroscience. I study emotions, memories, and problem-solving using measurements such as fMRI, EEG, EKG, and GSR.
+- I have been working with Dr. Nai-Shing Yen at the Brain, Emotion, and Decision-Making Lab, studying the **effect of color and emotion congruency on trust**.
+- I studied the difference in brain activation during **math problem solving** at Dr. Ting-Ting Chang’s Brain and Learning Lab and am familiar with conducting fMRI experiments and analyzing fMRI data.
+- I conducted EEG experiments, studying **abstract symbol learning process** at Dr. Hanna Steinunn Steingrímsdóttir's EEG lab.
 
-I obtained my bachelor's degree in Psychology in 2024 from [National ChengChi University](https://www.nccu.edu.tw/index.php?Lang=en), Taiwan, with a year of study abroad experience at [Reykjavik University](https://en.ru.is/), Iceland. 
+👩‍🎓 I obtained my bachelor's degree in Psychology in 2024 from [National ChengChi University](https://www.nccu.edu.tw/index.php?Lang=en), Taiwan, with a year of study abroad experience at [Reykjavik University](https://en.ru.is/), Iceland. 
 
 
 A data-driven personal website
