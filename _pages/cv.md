@@ -23,9 +23,11 @@ author_profile: true
 ## Research Interests 🧠🪄
 
 **Cognitive Neuroscience**
-| **Core Functions**                | **Higher Functions**                |
+
+| **Core Functions**                     | **Higher Functions**                     |
 |----------------------------------|----------------------------------|
-| - Memory<br>- Human Learning<br>- Problem-Solving | - Decision-Making<br>- Emotions on Trust and Memory |
+| - Memory<br>- Human Learning<br>- Problem-Solving             | - Decision-Making<br>- Emotions on Trust and Memory |
+
 
 ## Skills
 
