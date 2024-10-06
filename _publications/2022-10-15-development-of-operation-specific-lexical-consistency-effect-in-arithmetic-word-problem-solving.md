@@ -2,7 +2,7 @@
 title: "Development of Operation-Specific Lexical Consistency Effect in Arithmetic Word Problem Solving"
 collection: publications
 category: manuscripts
-permalink: /publication/2022-10-15-development-of-operation-specific-lexical-consistency-effect-in-arithmetic-word-problem-solving
+permalink: /publications/2022-10-15-development-of-operation-specific-lexical-consistency-effect-in-arithmetic-word-problem-solving
 excerpt: 'We investigate how students (adolescents and children) exhibit different math word problem solving results.'
 date: 2022-10-15
 venue: 'TPA 61st'
