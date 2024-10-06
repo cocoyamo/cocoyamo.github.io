@@ -5,60 +5,48 @@ permalink: /cv/
 author_profile: true
 ---
 
-#redirect_from:
-#- /resume
-
 {% include base_path %}
 
-Education
-======
-* Exchange Student in Psychology, Reykjavik University, Iceland, 2023-24
-* B.S. in Psychology, National ChengChi University, Taiwan, 2019-2024
+## Education
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Exchange Student** in Psychology, Reykjavik University, Iceland, 2023-24
+* **B.S.** in Psychology, National ChengChi University, Taiwan, 2019-2024
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+## Publication / Conference Paper
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Chu, M.-Y.**, Chen, X.-Y., Ng, C.-T., & Chang, T.-T. (2024, Apr). *Age-Related Differences in Brain Responses in Mathematical Problem-Solving Among Children and Adolescents* [[Poster presentation]](https://drive.google.com/file/d/1Q0_EK53GOz_IsXdYEZF0KowGXeJmAUXl/view?usp=sharing). Cognitive Neuroscience Society(CNS) 31st Annual Meeting, Toronto, Canada.
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* **Chu, M.-Y.**, Ng, C.-T., & Chang, T.-T. (2022, Oct). *Development of operation-specific lexical consistency effect in arithmetic word problem solving* [[Poster presentation]](https://drive.google.com/file/d/1st2-dYBIgump6WqU10XRUd78vQZBWpzf/view?usp=sharing). Taiwanese Psychological Association(TPA) 61st Annual Meeting, Taipei City, Taiwan.
+
+## Research Interests 🧠🪄
+
+**Cognitive Neuroscience**
+| **Core Functions**                | **Higher Functions**                |
+|----------------------------------|----------------------------------|
+| - Memory<br>- Human Learning<br>- Problem-Solving | - Decision-Making<br>- Emotions on Trust and Memory |
+
+## Skills
+
+* RStudio
+  * Data visualization, data analysis, and data tidying.
+  * [I create tutorials for RStudio users.](https://cocoyamo.github.io/MMR/)
+* MATLAB
+  * Stimuli presentation, response recording, and SPM analysis.
+* E-prime
+  * Stimuli presentation and response recording.
+
+## Awards and Honors
+
+* 2023 **College Student Research Creativity Award**, *National Science and Technology Council, Taiwan*
+* 2023 **Scholarships for Excellent Students to Study Abroad**, *Ministry of Education, Taiwan*
+* 2023 **Academic Year Glory Sashes Winners** (total average grade ranked 1st in psychology department), *National ChengChi University, Taiwan*
+* 2023 **Capstone course: Excellent Research Award** (The Most Complete and Interesting Research Topic), *Department of Psychology, National ChengChi University, Taiwan*
+* 2022-2023 **Residential Hall Scholarship for Excellent Students**, *National ChengChi University, Taiwan*
+
+## Service and Leadership
+
+* Student Journalist, *[NCCU News Lab](https://newslab.nccu.edu.tw/eng/PageFront?fid=10769)*
+  * Award:
+    * Campus Student Journalist Project
+    * Best Video Journalist
+    * Best Video Soft News
