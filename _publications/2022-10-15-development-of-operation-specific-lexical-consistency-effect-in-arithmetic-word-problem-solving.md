@@ -7,7 +7,7 @@ excerpt: 'We investigate how students (adolescents and children) exhibit differe
 date: 2022-10-15
 venue: 'Taiwanese Psychological Association (TPA) 61st Annual Meeting, Taipei, Taiwan'
 paperurl: '[http://academicpages.github.io/files/paper1.pdf](https://drive.google.com/file/d/1st2-dYBIgump6WqU10XRUd78vQZBWpzf/view?usp=sharing)'
-citation: 'Chu, M.-Y., Ng, C.-T., & Chang, T.-T. (2022, Oct). Development of operation-specific lexical consistency effect in arithmetic word problem solving [Poster presentation]. Taiwanese Psychological Association (TPA) 61st Annual Meeting, Taipei City, Taiwan.'
+citation: 'Chu, M.-Y., Ng, C.-T., & Chang, T.-T. (2022, Oct). *Development of operation-specific lexical consistency effect in arithmetic word problem solving* [Poster presentation]. Taiwanese Psychological Association (TPA) 61st Annual Meeting, Taipei City, Taiwan.'
 ---
 # Development of operation-specific lexical consistency effect in arithmetic word problem solving
 
