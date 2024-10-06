@@ -24,9 +24,9 @@ author_profile: true
 
 **Cognitive Neuroscience**
 
-| **Core Functions**                     | **Higher Functions**                     |
-|----------------------------------|----------------------------------|
-| - Memory  <br>- Human Learning <br>- Problem-Solving | - Decision-Making <br>- Emotions on Trust and Memory |
+| **Core Functions**| **Higher Functions**|
+|-----------------------------|-----------------------------|
+| - Memory  <br>- Human Learning <br>- Problem-Solving| - Decision-Making <br>- Emotions on Trust and Memory|
 
 
 | **Core Functions**               | **Higher Functions**               |
