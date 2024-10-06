@@ -26,8 +26,7 @@ author_profile: true
 
 | **Core Functions**                     | **Higher Functions**                     |
 |----------------------------------|----------------------------------|
-| - Memory<br>- Human Learning<br>- Problem-Solving             | - Decision-Making<br>- Emotions on Trust and Memory |
-
+| - Memory  <br>- Human Learning <br>- Problem-Solving | - Decision-Making <br>- Emotions on Trust and Memory |
 
 ## Skills
 
