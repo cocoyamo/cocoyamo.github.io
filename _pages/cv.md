@@ -28,6 +28,12 @@ author_profile: true
 |----------------------------------|----------------------------------|
 | - Memory  <br>- Human Learning <br>- Problem-Solving | - Decision-Making <br>- Emotions on Trust and Memory |
 
+
+| **Core Functions**                     | **Higher Functions**                     |
+|----------------------------------|----------------------------------|
+| - Memory<br>- Human Learning<br>- Problem-Solving             | - Decision-Making<br>- Emotions on Trust and Memory |
+
+
 ## Skills
 
 * RStudio
