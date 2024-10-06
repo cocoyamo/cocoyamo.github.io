@@ -1,10 +1,7 @@
 ---
 title: "Collaborations 1"
 collection: collaborations
-type: "Undergraduate course"
-permalink: /collaborations/2014-spring-collaborations-1
-venue: "University 1, Department"
-date: 2014-01-01
+permalink: /collaborations/collaborations-1
 location: "Reykjavik, Iceland"
 ---
 Hello here are my previous collaboration projects.
