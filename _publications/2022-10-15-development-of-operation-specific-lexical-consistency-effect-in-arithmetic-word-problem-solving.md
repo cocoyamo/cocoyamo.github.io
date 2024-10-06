@@ -5,10 +5,9 @@ category: manuscripts
 permalink: /publications/2022-10-15-development-of-operation-specific-lexical-consistency-effect-in-arithmetic-word-problem-solving
 excerpt: 'We investigate how students (adolescents and children) exhibit different math word problem solving results.'
 date: 2022-10-15
-venue: 'TPA 61st'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Chu, M.-Y., Ng, C.-T., & Chang, T.-T. (2022, Oct). *Development of operation-specific lexical consistency effect in arithmetic word problem solving* [[Poster presentation]](https://drive.google.com/file/d/1st2-dYBIgump6WqU10XRUd78vQZBWpzf/view?usp=sharing). Taiwanese Psychological Association(TPA) 61st Annual Meeting, Taipei City, Taiwan.'
+venue: 'Taiwanese Psychological Association 61st Annual Meeting, Taipei, Taiwan'
+paperurl: '[http://academicpages.github.io/files/paper1.pdf](https://drive.google.com/file/d/1st2-dYBIgump6WqU10XRUd78vQZBWpzf/view?usp=sharing)'
+citation: 'Chu, M.-Y., Ng, C.-T., & Chang, T.-T. (2022, Oct). *Development of operation-specific lexical consistency effect in arithmetic word problem solving* [Poster presentation]. Taiwanese Psychological Association(TPA) 61st Annual Meeting, Taipei City, Taiwan.'
 ---
 # Development of operation-specific lexical consistency effect in arithmetic word problem solving
 
