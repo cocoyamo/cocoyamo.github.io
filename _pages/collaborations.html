@@ -1,0 +1,12 @@
+---
+layout: archive
+title: "Collaborations"
+permalink: /collaborations/
+author_profile: true
+---
+
+{% include base_path %}
+
+{% for post in site.collaborations reversed %}
+  {% include archive-single-collaborations.html %}
+{% endfor %}
