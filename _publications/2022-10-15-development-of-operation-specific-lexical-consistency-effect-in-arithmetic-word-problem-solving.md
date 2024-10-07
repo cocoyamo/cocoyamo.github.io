@@ -9,7 +9,6 @@ venue: 'Taiwanese Psychological Association (TPA) 61st Annual Meeting, Taipei, T
 paperurl: 'http://cocoyamo.github.io/files/Moya_Poster_Operation-Specific Lexical Consistency_TPA_2022.pdf'
 citation: 'Chu, M.-Y., Ng, C.-T., & Chang, T.-T. (2022, Oct). Development of operation-specific lexical consistency effect in arithmetic word problem solving [Poster presentation]. Taiwanese Psychological Association (TPA) 61st Annual Meeting, Taipei City, Taiwan.'
 ---
-# Development of operation-specific lexical consistency effect in arithmetic word problem solving
 
 > **Keywords:**
 > Lexical consistency; word problem; arithmetic operation; arithmetic fluency; developmental trend
