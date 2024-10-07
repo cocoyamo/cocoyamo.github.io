@@ -27,4 +27,9 @@ Publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+Collaborations
+======
+  <ul>{% for post in site.collaborations reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
