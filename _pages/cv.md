@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-### 📄 [Download my full CV here](https://drive.google.com/file/d/1CGY3lo3NhDAnyZ4LPfB0Fq6zU3xnPth3/view?usp=sharing)
+#### [`📄 Download my full CV here`](https://drive.google.com/file/d/1CGY3lo3NhDAnyZ4LPfB0Fq6zU3xnPth3/view?usp=sharing)
 
 ## Education
 
@@ -27,6 +27,13 @@ author_profile: true
 | **Core Functions**| **Higher Functions**|
 |------------------------|------------------------|
 | - Memory  <br>- Human Learning <br>- Problem-Solving| - Decision-Making <br>- Emotions on Trust and Memory|
+
+| Entry            | Item   |                                                              |
+| --------         | ------ | ------------------------------------------------------------ |
+| [John Doe](#)    | 2016   | Description of the item in the list                          |
+| [Jane Doe](#)    | 2019   | Description of the item in the list                          |
+| [Doe Doe](#)     | 2022   | Description of the item in the list                          |
+
 
 ## Skills
 
