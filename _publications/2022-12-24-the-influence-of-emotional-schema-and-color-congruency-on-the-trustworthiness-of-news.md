@@ -3,7 +3,7 @@ title: "The Influence of Emotional Schema and Color Congruency on the Trustworth
 collection: publications
 category: manuscripts
 permalink: /publications/2022-12-24-the-influence-of-emotional-schema-and-color-congruency-on-the-trustworthiness-of-news
-excerpt: 'We study how colors and congruency affect our trust level towards the news.'
+excerpt: 'We study how colors and schema congruency affect our trust level towards the news.'
 date: 2022-12-24
 venue: 'Capstone Program, Department of Psychology, National ChengChi University, Taipei, Taiwan'
 paperurl: 'http://cocoyamo.github.io/files/Moya_Poster_Emotional Schema & Color Congruency_NCCU_2022.pdf'
