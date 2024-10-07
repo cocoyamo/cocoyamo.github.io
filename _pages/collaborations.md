@@ -7,6 +7,5 @@ author_profile: true
 
 {% include base_path %}
 
-### These are my previous collaborations
-## Project 1
-## Project 2
+**Stay tuned** -- an exciting project on brain and abstract symbol learning is coming soon! 😍
+
