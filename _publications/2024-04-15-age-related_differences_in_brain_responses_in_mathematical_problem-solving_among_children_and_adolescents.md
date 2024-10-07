@@ -1,7 +1,7 @@
 ---
 title: "Age-Related Differences in Brain Responses in Mathematical Problem-Solving Among Children and Adolescents"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publications/2024-04-15-age-related_differences_in_brain_responses_in_mathematical_problem-solving_among_children_and_adolescents
 excerpt: 'We investigate the different brain responses between adolescents and children while solving math word problems. This study is the neuroimaging version of [our previous study](https://cocoyamo.github.io/publications/2022-10-15-development-of-operation-specific-lexical-consistency-effect-in-arithmetic-word-problem-solving), which focused on behavioral research.'
 date: 2024-04-15
@@ -9,7 +9,6 @@ venue: 'Cognitive Neuroscience Society (CNS) 31st Annual Meeting Toronto, Canada
 paperurl: 'http://cocoyamo.github.io/files/Moya_Poster_Age-Related in Brain Respponses_CNS_2024.pdf'
 citation: 'Chu, M.-Y., Chen, X.-Y., Ng, C.-T., & Chang, T.-T. (2024, Apr). Age-Related Differences in Brain Responses in Mathematical Problem-Solving Among Children and Adolescents [Poster presentation]. Cognitive Neuroscience Society (CNS) 31st Annual Meeting, Toronto, Canada.'
 ---
-# Age-Related Differences in Brain Responses in Mathematical Problem-Solving Among Children and Adolescents
 
 > **Keywords:**
 > Math word problem; problem-solving; functional MRI; fronto-insular-parietal network; adolescents; children
