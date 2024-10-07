@@ -1,7 +1,7 @@
 ---
 title: "The Influence of Emotional Schema and Color Congruency on the Trustworthiness of News"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publications/2022-12-24-the-influence-of-emotional-schema-and-color-congruency-on-the-trustworthiness-of-news
 excerpt: 'We study how colors and schema congruency affect our trust level towards the news.'
 date: 2022-12-24
@@ -9,7 +9,6 @@ venue: 'Capstone Program, Department of Psychology, National ChengChi University
 paperurl: 'http://cocoyamo.github.io/files/Moya_Poster_Emotional Schema & Color Congruency_NCCU_2022.pdf'
 citation: 'Chu, M.-Y., Yen, N.-S.. The Influence of Emotional Schema and Color Congruency on the Trustworthiness of News [Poster presentation]. Capstone Program, Department of Psychology, National ChengChi University, Taipei, Taiwan.'
 ---
-# The Influence of Emotional Schema and Color Congruency on the Trustworthiness of News
 
 > **Keywords:**
 > Emotion valance, Color schema, Schema priming, Schema congruity theory, News Trustworthiness 
