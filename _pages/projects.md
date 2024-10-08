@@ -5,6 +5,9 @@ permalink: /projects/
 author_profile: true
 ---
 
+
+![](/images/wholebrain_interaction.jpg)
+
 Age-Related Differences in Brain Responses in Mathematical Problem-Solving Among Children and Adolescents
 -----
 `# fMRI` `# math word problem` `# fronto-insular-parietal network`
