@@ -9,6 +9,7 @@ author_profile: true
 
 ### [📄 Download my full CV here](https://drive.google.com/file/d/1CGY3lo3NhDAnyZ4LPfB0Fq6zU3xnPth3/view?usp=sharing)
 
+
 ## Education
 
 * **Exchange Student** in Psychology, Reykjavik University, Iceland, 2023-24
