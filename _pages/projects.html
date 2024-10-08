@@ -7,26 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-
-<!-- top-right corner -->
-<div style="text-align: right; font-style: italic; margin-bottom: 12px;font-size: 16px;color: #5a7d9a;">
- Here are my previous projects.
-</div>
-
-
-<h2>&#127775; Uncertainty quantification for geophysical inverse problems</h2>
-<p, align = "justify">
-I am interested in the different brain activations among young adults when doing math problems.
-</p>
-
-
-
-<div style="margin-bottom: 30px; background-color: white; border: 1px solid white; border-radius: 10px; padding: 20px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-  <h2 style="margin-top: 0; margin-bottom: 20px; text-align: left;">&#9658; Math word problem solving among adolescents and children</h2>
-  <img src="/images/whoelbrain_interaction.jpg" alt="Project 3" style="max-width: 100%; height: auto; border-radius: 5px;">
-</div>
-
-
 {% for post in site.projects reversed %}
   {% include archive-single-projects.html %}
 {% endfor %}
