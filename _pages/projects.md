@@ -6,11 +6,18 @@ author_profile: true
 ---
 
 
-![](/images/wholebrain_interaction.jpg)
+<img align="left" width="300" src='/images/wholebrain_interaction.jpg'>
 
 Age-Related Differences in Brain Responses in Mathematical Problem-Solving Among Children and Adolescents
 -----
 `# fMRI` `# math word problem` `# fronto-insular-parietal network`
+
+- 
+
+
+
+
+
 
 
 The Influence of Emotional Schema and Color Congruency on the Trustworthiness of News
