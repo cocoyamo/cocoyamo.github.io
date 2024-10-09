@@ -6,11 +6,12 @@ author_profile: true
 ---
 
 
-<img align="left" width="300" src='/images/wholebrain_interaction.jpg'>
 
 What does your brain look like while solving math problems?
 -----
-`# fMRI` `# math word problem` `# fronto-insular-parietal network` `# lexical consistency`
+<img align="left" width="300" src='/images/wholebrain_interaction.jpg'>
+
+`# math word problem` `# fronto-insular-parietal network` `# lexical consistency` `# fMRI` 
 
 
 *"Tom has 6 books. Jerry has 10 books more than Tom. How many books does Jerry have?"*
