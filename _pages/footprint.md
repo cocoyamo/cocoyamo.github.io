@@ -6,11 +6,4 @@ author_profile: true
 ---
 
 {% include base_path %}
-
-📍 University of North Carolina - Chapel Hill
-
-📍 Reykjavik University, Reykjavik, Iceland
-
-📍 National ChengChi University, Taipei, Taiwan
-
-(I will upload a map pic later :D)
+![](https://github.com/cocoyamo/cocoyamo.github.io/blob/759dda5115fa637c62e8c0e4776276c6831cf234/images/moyas_footprint.jpg)
