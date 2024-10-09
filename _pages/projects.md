@@ -5,9 +5,7 @@ permalink: /projects/
 author_profile: true
 ---
 
-
-
-# What does your brain look like while solving math problems?
+## What does your brain look like while solving math problems?
 
 <img align="left" width="300" src='/images/wholebrain_interaction.jpg'>
 
