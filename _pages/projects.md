@@ -7,7 +7,7 @@ author_profile: true
 
 ## What does your brain look like while solving math problems?
 
-<img align="left" width="300" src='/images/wholebrain_interaction.jpg'>
+<img align="left" width="320" src='/images/wholebrain_interaction.jpg'>
 
 `# math word problem` `# fronto-insular-parietal network` `# lexical consistency` `# fMRI` 
 
