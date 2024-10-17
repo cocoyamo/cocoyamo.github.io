@@ -1,8 +1,10 @@
 ---
 layout: archive
 title: "Projects"
+description: "My current and previous projects. Looking for collaborating opportunities😊"
 permalink: /projects/
 author_profile: true
+output: distill::distill_article
 ---
 # Make RStudio a friend, not a foe.
 
