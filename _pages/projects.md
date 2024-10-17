@@ -44,7 +44,7 @@ output: distill::distill_article
 <div class="project-card">
   <h3>My RStudio Tutorial!</h3>
   <p>Check out my RStudio Tutorials. Both videos and webpage.</p>
-  <a href="/projects/p1_r_tutorial">Learn more</a>
+  <a href="/projects/p1_r_tutorial.md">Learn more</a>
 </div>
 
 
