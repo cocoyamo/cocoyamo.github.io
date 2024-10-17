@@ -1,11 +1,57 @@
 ---
 layout: archive
 title: "Projects"
-description: "My current and previous projects. Looking for collaborating opportunities😊"
+description: "My current and previous projects."
 permalink: /projects/
 author_profile: true
 output: distill::distill_article
 ---
+
+<style>
+.project-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.project-card {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 16px;
+  width: 30%;
+  box-shadow: 2px 2px 8px rgba(0,0,0,0.1);
+  text-align: center;
+  background-color: #f9f9f9;
+}
+
+.project-card h3 {
+  margin-top: 0;
+}
+
+.project-card a {
+  display: inline-block;
+  margin-top: 10px;
+  text-decoration: none;
+  color: #007acc;
+}
+</style>
+
+# Projects
+
+<div class="project-container">
+
+  
+<div class="project-card">
+  <h3>ake RStudio a friend, not a foe.</h3>
+  <p>A Welcome to [my RStudio tutorial🎉](https://cocoyamo.github.io/R_tutorials/)! As a passionate data enthusiast, I created this tutorial for beginners and intermediate users to navigate the world of R programming confidently.
+
+In this tutorial, you'll discover key topics like data import, cleaning, visualization, and statistical analysis. You'll utilize popular tools and packages like **tidyverse** and **ggplot2**, transforming R from a source of frustration into a powerful ally in your data analysis journey🪄.
+
+By the end of the tutorial, you'll have the skills to perform effective data analysis and create compelling visualizations in R, enhancing your confidence and capabilities along the way.</p>
+  <a href="https://cocoyamo.github.io/R_tutorials/">Learn more</a>
+</div>
+
+
 # Make RStudio a friend, not a foe.
 
 Welcome to [my RStudio tutorial🎉](https://cocoyamo.github.io/R_tutorials/)! As a passionate data enthusiast, I created this tutorial for beginners and intermediate users to navigate the world of R programming confidently.
