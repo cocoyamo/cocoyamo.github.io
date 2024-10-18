@@ -7,6 +7,17 @@ author_profile: true
 output: distill::distill_article
 ---
 
+<style>
+div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 20px;}
+</style>
+<div class = "blue">
+
+- This is my first conclusion
+- This is my second conclusion
+
+</div>
+
+
 # Make RStudio a friend, not a foe.
 
 Welcome to [my RStudio tutorial🎉](https://cocoyamo.github.io/R_tutorials/)! As a passionate data enthusiast, I created this tutorial for beginners and intermediate users to navigate the world of R programming confidently.
