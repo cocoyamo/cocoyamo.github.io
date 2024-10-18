@@ -12,11 +12,15 @@ div.beige {
     background-color: #f5ebe0; 
     border-radius: 5px; 
     padding: 20px;
+    display: flex;            /* 使用 flexbox */
+    justify-content: center;  /* 水平置中 */
+    align-items: center;      /* 垂直置中 */
+    height: 200px;            /* 設定高度以便垂直居中 */
 }
 </style>
 
 <div class="beige">
-    <h1 style="font-size: 2.5em; font-weight: bold;">Make RStudio a friend, not a foe.</h1>
+    <h1 style="font-size: 2.5em; font-weight: bold; text-align: center;">Make RStudio a friend, not a foe.</h1>
 </div>
 
 
