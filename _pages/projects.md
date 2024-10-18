@@ -7,24 +7,6 @@ author_profile: true
 output: distill::distill_article
 ---
 
-
-<h1>Projects</h1>
-
-<div class="project-container">
-
-    <div class="project-card">
-        <img src="/images/moya_profile.jpg" alt="Project 1 Image" class="project-image">
-        <h3>RStudio Tutorial</h3>
-        <p>This is my RStudio Tutorial</p>
-        <a href="/projects/p1_r_tutorial" class="project-link">View Project</a>
-    </div>
-
-
-</div>
-
-
-
-
 # Make RStudio a friend, not a foe.
 
 Welcome to [my RStudio tutorial🎉](https://cocoyamo.github.io/R_tutorials/)! As a passionate data enthusiast, I created this tutorial for beginners and intermediate users to navigate the world of R programming confidently.
