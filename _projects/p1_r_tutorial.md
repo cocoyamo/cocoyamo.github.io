@@ -1,8 +1,8 @@
 ---
 title: "Make RStudio a friend, not a foe."
 collection: projects
-permalink: /projects/p1-r-tutorial
-excerpt: 'My pervious projects'
+permalink: /projects/p1-r-tutorial/
+excerpt: 'My previous projects'
 date: 2024
 ---
 
