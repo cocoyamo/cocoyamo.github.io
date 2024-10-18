@@ -6,6 +6,9 @@ permalink: /projects/
 author_profile: true
 output: distill::distill_article
 ---
+<link href="https://fonts.googleapis.com/css2?family=EB+Garamond&display=swap" rel="stylesheet">
+
+</style>
 
 <style>
 div.beige { 
@@ -15,14 +18,14 @@ div.beige {
     display: flex;            /* 使用 flexbox */
     justify-content: center;  /* 水平置中 */
     align-items: center;      /* 垂直置中 */
-    height: 200px;            /* 設定高度以便垂直居中 */
+    height: 100px;            /* 設定高度以便垂直居中 */
 }
 
 h1 {
     font-size: 1.8em; 
     font-weight: normal;      /* 修改為 normal 以減少字體粗度 */
     text-align: center;
-    font-family: 'Consolas', sans-serif; /* 可以替換成其他字體 */
+    font-family: 'EB Garamond', sans-serif; /* 可以替換成其他字體 */
 }
 </style>
 
