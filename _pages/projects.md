@@ -7,45 +7,22 @@ author_profile: true
 output: distill::distill_article
 ---
 
-<style>
-.project-container {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 20px;
-}
 
-.project-card {
-  border: 1px solid #ddd;
-  border-radius: 8px;
-  padding: 16px;
-  width: 30%;
-  box-shadow: 2px 2px 8px rgba(0,0,0,0.1);
-  text-align: center;
-  background-color: #f9f9f9;
-}
-
-.project-card h3 {
-  margin-top: 0;
-}
-
-.project-card a {
-  display: inline-block;
-  margin-top: 10px;
-  text-decoration: none;
-  color: #007acc;
-}
-</style>
-
-# Projects
+<h1>Projects</h1>
 
 <div class="project-container">
 
-  
-<div class="project-card">
-  <h3>My RStudio Tutorial!</h3>
-  <p>Check out my RStudio Tutorials. Both videos and webpage.</p>
-  <a href="/projects/p1_r_tutorial">Learn more</a>
+    <div class="project-card">
+        <img src="/images/moya_profile.jpg" alt="Project 1 Image" class="project-image">
+        <h3>RStudio Tutorial</h3>
+        <p>This is my RStudio Tutorial</p>
+        <a href="/projects/p1_r_tutorial" class="project-link">View Project</a>
+    </div>
+
+
 </div>
+
+
 
 
 # Make RStudio a friend, not a foe.
