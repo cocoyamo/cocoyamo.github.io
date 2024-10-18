@@ -12,7 +12,7 @@ output: distill::distill_article
 div.beige { 
     background-color: #f5ebe0; 
     border-radius: 7px;       /* 圓角 */
-    padding: 8px;            /* 內邊距離 */
+    padding: 5px;            /* 內邊距離 */
     display: flex;            /* 使用 flexbox */
     justify-content: center;  /* 水平置中 */
     align-items: center;      /* 垂直置中 */
@@ -21,7 +21,7 @@ div.beige {
 
 h1 {
     font-size: 1.8em; 
-    font-weight: bold;      /* 修改為 normal 以減少字體粗度 */
+    font-weight: normal;      /* 修改為 normal 以減少字體粗度 */
     text-align: center;
     font-family: 'EB Garamond', sans-serif; /* 可以替換成其他字體 */
 }
