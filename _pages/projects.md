@@ -8,13 +8,15 @@ output: distill::distill_article
 ---
 
 <style>
-div.beige { background-color:#f5ebe0; border-radius: 5px; padding: 20px;}
+div.beige { 
+    background-color: #f5ebe0; 
+    border-radius: 5px; 
+    padding: 20px;
+}
 </style>
-<div class = "beige">
 
-# Make RStudio a friend, not a foe.
-
-
+<div class="beige">
+    <h1 style="font-size: 2.5em; font-weight: bold;">Make RStudio a friend, not a foe.</h1>
 </div>
 
 
