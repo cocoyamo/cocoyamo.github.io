@@ -10,18 +10,26 @@ output: distill::distill_article
 <style>
 div.beige { 
     background-color: #f5ebe0; 
-    border-radius: 5px; 
-    padding: 20px;
+    border-radius: 5px;       /* 圓角 */
+    padding: 20px;            /* 內邊距離 */
     display: flex;            /* 使用 flexbox */
     justify-content: center;  /* 水平置中 */
     align-items: center;      /* 垂直置中 */
     height: 200px;            /* 設定高度以便垂直居中 */
 }
+
+h1 {
+    font-size: 2em; 
+    font-weight: bold;      /* 修改為 normal 以減少字體粗度 */
+    text-align: center;
+    font-family: 'Georgia', sans-serif; /* 可以替換成其他字體 */
+}
 </style>
 
 <div class="beige">
-    <h1 style="font-size: 2.5em; font-weight: bold; text-align: center;">Make RStudio a friend, not a foe.</h1>
+    <h1>Make RStudio a friend, not a foe.</h1>
 </div>
+
 
 
 
