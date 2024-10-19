@@ -15,7 +15,7 @@ Welcome to my RStudio tutorial 🎉! As a passionate data enthusiast, I created 
 <!-- 左右排列的區塊 -->
 <div style="display: flex; align-items: flex-start;">
   <!-- 左邊內容 -->
-  <div style="flex: 1; max-width: 580px; padding-right: 20px;">
+  <div style="flex: 1; max-width: 600px; padding-right: 20px;">
     <p>🌐 <a href="https://cocoyamo.github.io/R_tutorials/">Web Tutorial</a>: Covering key topics like data import, cleaning, visualization, and statistical analysis using <strong>tidyverse</strong> and <strong>ggplot2</strong>.</p>
     <p>🎥 <a href="https://www.youtube.com/playlist?list=PLrnPgbLdSy7czQs7mrJNR9XQxH75OjvcU">Tutorial Videos</a>: Boost your learning with step-by-step videos that make it easier to master R and turn it into a powerful ally 🪄.</p>
     <p>By the end, you'll have the skills to perform effective data analysis and create compelling visualizations, enhancing your confidence and abilities in R.</p>
