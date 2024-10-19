@@ -10,12 +10,6 @@ output:
 ---
 # Make RStudio a friend, not a foe.
 
-<!-- 最上方的介紹 -->
-<div style="margin-bottom: 20px;">
-  <h2 style="margin: 0;">Welcome to my RStudio tutorial 🎉!</h2>
-  <p>As a passionate data enthusiast, I created this tutorial to help beginners and intermediate users confidently dive into R programming.</p>
-</div>
-
 <!-- 左右排列的區塊 -->
 <div style="display: flex; align-items: flex-start;">
   <!-- 左邊內容 -->
@@ -25,7 +19,7 @@ output:
     <p>By the end, you'll have the skills to perform effective data analysis and create compelling visualizations, enhancing your confidence and abilities in R.</p>
   </div>
   <!-- 右邊影片 -->
-  <div style="flex: 0 0 auto; text-align: right;">
+  <div style="flex: 0 1 auto; text-align: right;">
     <iframe width="200" height="100" src="https://www.youtube.com/embed/nQcVh9_infA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>
 </div>
