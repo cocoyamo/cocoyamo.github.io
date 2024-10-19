@@ -8,8 +8,9 @@ output:
   html_document:
     keep_md: true
 ---
-Make RStudio a friend, not a foe.
----
+
+# Make RStudio a friend, not a foe.
+
 Welcome to my RStudio tutorial 🎉! As a passionate data enthusiast, I created this tutorial to help beginners and intermediate users confidently dive into R programming.
 
 <!-- 左右排列的區塊 -->
@@ -40,7 +41,7 @@ When the wording changes, the relationship between the numbers becomes harder to
 
 We discovered a developmental shift, where children are more easily affected by lexical inconsistencies compared to adolescents. However, for adolescents, the consistency effect re-emerges when solving addition problems. This effect is evident in both their [brain](https://cocoyamo.github.io/publications/2024-04-15-age-related_differences_in_brain_responses_in_mathematical_problem-solving_among_children_and_adolescents)  and [behavioral](https://cocoyamo.github.io/publications/2022-10-15-development-of-operation-specific-lexical-consistency-effect-in-arithmetic-word-problem-solving) data.
 
-## The Influence of Emotional Schema and Color Congruency on the Trustworthiness of News
+# The Influence of Emotional Schema and Color Congruency on the Trustworthiness of News
 
 `# emotions` `# color schema` `# news trustworthiness`
 
