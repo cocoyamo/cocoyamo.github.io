@@ -4,8 +4,9 @@ title: "Projects"
 description: "My current and previous projects."
 permalink: /projects/
 author_profile: true
-output: html_document:
-  keep_md: true
+output: 
+  html_document:
+    keep_md: true
 ---
 # Make RStudio a friend, not a foe.
 
