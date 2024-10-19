@@ -6,45 +6,24 @@ permalink: /projects/
 author_profile: true
 output: distill::distill_article
 ---
-<link href="https://fonts.googleapis.com/css2?family=EB+Garamond&display=swap" rel="stylesheet">
+# Make RStudio a friend, not a foe.
 
-<style>
-div.beige { 
-    background-color: #f5ebe0; 
-    border-radius: 7px;       /* 圓角 */
-    padding: 5px;            /* 內邊距離 */
-    display: flex;            /* 使用 flexbox */
-    justify-content: center;  /* 水平置中 */
-    align-items: center;      /* 垂直置中 */
-    height: 75px;            /* 設定高度以便垂直居中 */
-}
 
-h1 {
-    font-size: 1.8em; 
-    font-weight: normal;      /* 修改為 normal 以減少字體粗度 */
-    text-align: center;
-    font-family: 'EB Garamond', sans-serif; /* 可以替換成其他字體 */
-}
-</style>
+Welcome to my RStudio tutorial 🎉! As a passionate data enthusiast, I created this tutorial to help beginners and intermediate users confidently dive into R programming.
 
-<div class="beige">
-    <h1>Make RStudio a friend, not a foe.</h1>
-</div>
+🌐 [Web Tutorial](https://cocoyamo.github.io/R_tutorials/): Covering key topics like data import, cleaning, visualization, and statistical analysis using tidyverse and ggplot2.
+
+🎥 [Tutorial Videos](https://www.youtube.com/playlist?list=PLrnPgbLdSy7czQs7mrJNR9XQxH75OjvcU): Boost your learning with step-by-step videos that make it easier to master R and turn it into a powerful ally 🪄.
+
+Latest video: Introduction to Tidyverse 🪐
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nQcVh9_infA&list=PLrnPgbLdSy7czQs7mrJNR9XQxH75OjvcU&index=1&t=1841s" frameborder="0" allowfullscreen></iframe>
+
+
+By the end, you'll have the skills to perform effective data analysis and create compelling visualizations, enhancing your confidence and abilities in R.
 
 
 
-
-Welcome to [my RStudio tutorial🎉](https://cocoyamo.github.io/R_tutorials/)! As a passionate data enthusiast, I created this tutorial for beginners and intermediate users to navigate the world of R programming confidently.
-
-In this tutorial, you'll discover key topics like data import, cleaning, visualization, and statistical analysis. You'll utilize popular tools and packages like **tidyverse** and **ggplot2**, transforming R from a source of frustration into a powerful ally in your data analysis journey🪄.
-
-By the end of the tutorial, you'll have the skills to perform effective data analysis and create compelling visualizations in R, enhancing your confidence and capabilities along the way.
-
-
-<div class="beige">
-    <h1>What does your brain look like while solving math problems?</h1>
-</div>
-# 
+# What does your brain look like while solving math problems?
 
 <img align="left" width="320" src='/images/wholebrain_interaction.jpg'>
 
