@@ -8,8 +8,8 @@ output:
   html_document:
     keep_md: true
 ---
-## Make RStudio a friend, not a foe.
-
+Make RStudio a friend, not a foe.
+---
 Welcome to my RStudio tutorial 🎉! As a passionate data enthusiast, I created this tutorial to help beginners and intermediate users confidently dive into R programming.
 
 <!-- 左右排列的區塊 -->
@@ -26,7 +26,7 @@ Welcome to my RStudio tutorial 🎉! As a passionate data enthusiast, I created 
   </div>
 </div>
 
-## What does your brain look like while solving math problems?
+# What does your brain look like while solving math problems?
 
 <img align="left" width="320" src='/images/wholebrain_interaction.jpg'>
 
