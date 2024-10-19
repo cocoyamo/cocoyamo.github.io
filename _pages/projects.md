@@ -9,7 +9,7 @@ output: distill::distill_article
 # Make RStudio a friend, not a foe.
 
 <!-- 最上方的介紹 -->
-<div style="text-align: center; margin-bottom: 20px;">
+<div style="margin-bottom: 20px;">
   <h2>Welcome to my RStudio tutorial 🎉!</h2>
   <p>As a passionate data enthusiast, I created this tutorial to help beginners and intermediate users confidently dive into R programming.</p>
 </div>
@@ -22,9 +22,9 @@ output: distill::distill_article
     <p>🎥 <a href="https://www.youtube.com/playlist?list=PLrnPgbLdSy7czQs7mrJNR9XQxH75OjvcU">Tutorial Videos</a>: Boost your learning with step-by-step videos that make it easier to master R and turn it into a powerful ally 🪄.</p>
     <p>By the end, you'll have the skills to perform effective data analysis and create compelling visualizations, enhancing your confidence and abilities in R.</p>
   </div>
-  <!-- 右邊影片 -->
-  <div style="flex: 1; text-align: right;">
-    <iframe width="100%" height="auto" src="https://www.youtube.com/embed/nQcVh9_infA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="max-width: 400px;"></iframe>
+   <!-- 右邊影片 -->
+  <div style="flex: 0 0 auto; text-align: right;">
+    <iframe width="200" height="100" src="https://www.youtube.com/embed/nQcVh9_infA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>
 </div>
 
