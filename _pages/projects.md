@@ -31,41 +31,6 @@ output: distill::distill_article
 
 
 
-
-
-
-
-
-
-
-
----
-Welcome to my RStudio tutorial 🎉! As a passionate data enthusiast, I created this tutorial to help beginners and intermediate users confidently dive into R programming.
-
-🌐 [Web Tutorial](https://cocoyamo.github.io/R_tutorials/): Covering key topics like data import, cleaning, visualization, and statistical analysis using tidyverse and ggplot2.
-
-🎥 [Tutorial Videos](https://www.youtube.com/playlist?list=PLrnPgbLdSy7czQs7mrJNR9XQxH75OjvcU): Boost your learning with step-by-step videos that make it easier to master R and turn it into a powerful ally 🪄.
-
-Latest video: Introduction to Tidyverse 🪐 (English subtitles available)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nQcVh9_infA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-By the end, you'll have the skills to perform effective data analysis and create compelling visualizations, enhancing your confidence and abilities in R.
-
-
-<div style="display: flex; align-items: center;">
-  <div style="flex: 1;">
-    <!-- 左側內容，例如RStudio的介紹 -->
-    <p>這裡是 RStudio 的介紹內容...</p>
-  </div>
-  <div style="flex: 1; text-align: right;">
-    <!-- 右側嵌入影片，設定寬度為 100% 並保持比例 -->
-    <iframe width="100%" height="auto" src="https://www.youtube.com/embed/nQcVh9_infA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="max-width: 400px;"></iframe>
-  </div>
-</div>
-
-
-
 # What does your brain look like while solving math problems?
 
 <img align="left" width="320" src='/images/wholebrain_interaction.jpg'>
