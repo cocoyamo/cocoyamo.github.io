@@ -17,7 +17,7 @@ output:
 </div>
 
 <!-- 左右排列的區塊 -->
-<div style="align-items: flex-start;">
+<div style="display: flex; align-items: flex-start;">
   <!-- 左邊內容 -->
   <div style="flex: 1; padding-right: 20px;">
     <p>🌐 <a href="https://cocoyamo.github.io/R_tutorials/">Web Tutorial</a>: Covering key topics like data import, cleaning, visualization, and statistical analysis using <strong>tidyverse</strong> and <strong>ggplot2</strong>.</p>
@@ -26,9 +26,10 @@ output:
   </div>
   <!-- 右邊影片 -->
   <div style="flex: 0 0 auto; text-align: right;">
-   <iframe width="200" height="100" src="https://www.youtube.com/embed/nQcVh9_infA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="200" height="100" src="https://www.youtube.com/embed/nQcVh9_infA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>
 </div>
+
 
 
 
