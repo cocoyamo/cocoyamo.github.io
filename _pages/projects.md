@@ -4,7 +4,8 @@ title: "Projects"
 description: "My current and previous projects."
 permalink: /projects/
 author_profile: true
-output: html_document
+output: html_document:
+  keep_md: true
 ---
 # Make RStudio a friend, not a foe.
 
@@ -24,10 +25,9 @@ output: html_document
   </div>
   <!-- 右邊影片 -->
   <div style="flex: 0 0 auto; text-align: right;">
-    <iframe width="200" height="100" src="https://www.youtube.com/embed/nQcVh9_infA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   <iframe width="200" height="100" src="https://www.youtube.com/embed/nQcVh9_infA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>
 </div>
-
 
 
 
