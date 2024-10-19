@@ -8,7 +8,9 @@ output:
   html_document:
     keep_md: true
 ---
-# Make RStudio a friend, not a foe.
+## Make RStudio a friend, not a foe.
+
+Welcome to my RStudio tutorial 🎉! As a passionate data enthusiast, I created this tutorial to help beginners and intermediate users confidently dive into R programming.
 
 <!-- 左右排列的區塊 -->
 <div style="align-items: flex-start;">
@@ -20,11 +22,11 @@ output:
   </div>
   <!-- 右邊影片 -->
   <div style="flex: 0 0 auto; text-align: right;">
-   <iframe style="width: 160px; height: 90px;" src="https://www.youtube.com/embed/nQcVh9_infA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   <iframe style="width: 320px; height: 180px;" src="https://www.youtube.com/embed/nQcVh9_infA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>
 </div>
 
-# What does your brain look like while solving math problems?
+## What does your brain look like while solving math problems?
 
 <img align="left" width="320" src='/images/wholebrain_interaction.jpg'>
 
@@ -38,7 +40,7 @@ When the wording changes, the relationship between the numbers becomes harder to
 
 We discovered a developmental shift, where children are more easily affected by lexical inconsistencies compared to adolescents. However, for adolescents, the consistency effect re-emerges when solving addition problems. This effect is evident in both their [brain](https://cocoyamo.github.io/publications/2024-04-15-age-related_differences_in_brain_responses_in_mathematical_problem-solving_among_children_and_adolescents)  and [behavioral](https://cocoyamo.github.io/publications/2022-10-15-development-of-operation-specific-lexical-consistency-effect-in-arithmetic-word-problem-solving) data.
 
-# The Influence of Emotional Schema and Color Congruency on the Trustworthiness of News
+## The Influence of Emotional Schema and Color Congruency on the Trustworthiness of News
 
 `# emotions` `# color schema` `# news trustworthiness`
 
