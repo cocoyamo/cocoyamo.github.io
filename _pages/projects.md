@@ -4,7 +4,7 @@ title: "Projects"
 description: "My current and previous projects."
 permalink: /projects/
 author_profile: true
-output: distill::distill_article
+html_document
 ---
 # Make RStudio a friend, not a foe.
 
