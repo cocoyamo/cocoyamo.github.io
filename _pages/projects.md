@@ -16,7 +16,7 @@ Welcome to my RStudio tutorial 🎉! As a passionate data enthusiast, I created 
 🎥 [Tutorial Videos](https://www.youtube.com/playlist?list=PLrnPgbLdSy7czQs7mrJNR9XQxH75OjvcU): Boost your learning with step-by-step videos that make it easier to master R and turn it into a powerful ally 🪄.
 
 Latest video: Introduction to Tidyverse 🪐
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nQcVh9_infA&list=PLrnPgbLdSy7czQs7mrJNR9XQxH75OjvcU&index=1&t=1841s" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nQcVh9_infA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 By the end, you'll have the skills to perform effective data analysis and create compelling visualizations, enhancing your confidence and abilities in R.
