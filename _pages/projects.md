@@ -22,7 +22,7 @@ Welcome to my RStudio tutorial 🎉! As a passionate data enthusiast, I created 
   </div>
   <!-- 右邊影片 -->
   <div style="flex: 0 0 auto; text-align: right;">
-    <iframe style="width: 320px; height: 180px;" src="https://www.youtube.com/embed/nQcVh9_infA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe style="width: 336px; height: 189px;" src="https://www.youtube.com/embed/nQcVh9_infA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>
 </div>
 
