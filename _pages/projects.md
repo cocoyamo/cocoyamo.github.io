@@ -13,7 +13,7 @@ output:
 Welcome to my RStudio tutorial 🎉! As a passionate data enthusiast, I created this tutorial to help beginners and intermediate users confidently dive into R programming.
 
 <!-- 左右排列的區塊 -->
-<div style="align-items: flex-start;">
+<div style="display: flex; align-items: flex-start;">
   <!-- 左邊內容 -->
   <div style="flex: 1; padding-right: 20px;">
     <p>🌐 <a href="https://cocoyamo.github.io/R_tutorials/">Web Tutorial</a>: Covering key topics like data import, cleaning, visualization, and statistical analysis using <strong>tidyverse</strong> and <strong>ggplot2</strong>.</p>
