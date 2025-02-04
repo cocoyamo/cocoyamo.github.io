@@ -45,6 +45,13 @@ We discovered a developmental shift, where children are more easily affected by 
 
 `# emotions` `# color schema` `# news trustworthiness`
 
+Public trust in news is influenced by factors beyond content, yet their interaction remains understudied. This study examines how **headline emotion** and **news visuals** (blue vs. red) affect trust.
+
+Results show that **positive headlines increase trust**, while negative ones elicit consistently low trust. Under positive headlines, **red visuals enhance trust when paired with lively headlines but reduce it when paired with safe headlines**. In contrast, **blue visuals maintain trust levels regardless of the headline**, likely due to their calming effect.
+
+These findings highlight how **emotional and visual cues shape trust in news**, emphasizing the need for critical awareness to resist subconscious bias.
+
+
 Publications
 -----
   <ul>{% for post in site.publications reversed %}
