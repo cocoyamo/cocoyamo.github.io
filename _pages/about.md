@@ -19,6 +19,4 @@ Previously, I conducted research across multiple labs:
 
 🧝‍♀️ I am currently creating a [tutorial website](https://cocoyamo.github.io/R_tutorials/) for RStudio, focusing on data analysis and visualization. I'm also producing [instructional videos](https://www.youtube.com/playlist?list=PLrnPgbLdSy7czQs7mrJNR9XQxH75OjvcU) to guide users step-by-step. My goal is to make learning RStudio more approachable and enjoyable.
 
-images/my research lab journey.jpg
-
 <img align="bottom" src='/images/my research lab journey.jpg'>
