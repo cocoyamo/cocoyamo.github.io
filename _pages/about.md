@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-🧠 Hello! I am a research technician in [**Frohlich Lab**](https://www.frohlichlab.org/) at UNC Chapel Hill, with a research focus on **cognitive neuroscience**. I am particularly interested in **emotions, memory, and problem-solving**, utilizing **fMRI, EEG, EKG, and GSR** to investigate these cognitive processes. 
+🧠 Hello! I am a research technician in [**Neurocognition and Imaging Research Lab**](https://nirl.web.unc.edu/) at UNC Chapel Hill, with a research focus on **cognitive neuroscience**. I am particularly interested in **emotions, memory, and problem-solving**, utilizing **fMRI, EEG, ECG, PPG, and GSR** to investigate these cognitive processes. 
 
 Previously, I conducted research across multiple labs:
 - At the **Brain, Emotion, and Decision-Making Lab** with Dr. Nai-Shing Yen, I explored the **effects of color-emotion congruency on trust** and the impact of **gamification on motivation**.
