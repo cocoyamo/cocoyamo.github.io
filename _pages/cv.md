@@ -12,8 +12,8 @@ author_profile: true
 
 ## Education
 
-* **Exchange Student** in Psychology, Reykjavik University, Iceland, 2023-24
 * **B.S.** in Psychology, National ChengChi University, Taiwan, 2019-2024
+* **Exchange Student** in Psychology, Reykjavik University, Iceland, 2023-24
 
 ## Publication / Conference Paper
 
