@@ -18,3 +18,7 @@ Previously, I conducted research across multiple labs:
 👩‍🎓 I obtained my bachelor's degree in Psychology in 2024 from [National ChengChi University](https://www.nccu.edu.tw/index.php?Lang=en), Taiwan, with a year of study abroad experience at [Reykjavik University](https://en.ru.is/), Iceland. 
 
 🧝‍♀️ I am currently creating a [tutorial website](https://cocoyamo.github.io/R_tutorials/) for RStudio, focusing on data analysis and visualization. I'm also producing [instructional videos](https://www.youtube.com/playlist?list=PLrnPgbLdSy7czQs7mrJNR9XQxH75OjvcU) to guide users step-by-step. My goal is to make learning RStudio more approachable and enjoyable.
+
+images/my research lab journey.jpg
+
+<img align="bottom" src='/images/my research lab journey.jpg'>
