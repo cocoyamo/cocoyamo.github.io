@@ -16,9 +16,12 @@ I am involved in the [**STAARS project**](https://nirl.web.unc.edu/staars/) at U
 
 🧠 Previously, I conducted research across multiple labs:
 - At the **Brain, Emotion, and Decision-Making Lab** (<span style="color:red;">National ChengChi University, Taiwan</span>) with Dr. Nai-Shing Yen, I explored the **effects of color-emotion congruency on trust** and the impact of **gamification on motivation**.  
-  📍 <span style="color:gray;">National ChengChi University, Taiwan</span>
+  📍 *<span style="color:gray;">National ChengChi University, Taiwan</span>*
 - At the [**Brain and Learning Lab**](https://bnlnccu.wixsite.com/bnlnccu/home) (National ChengChi University, Taiwan) under Dr. Ting-Ting Chang's supervision, I investigated **neural activation during math problem-solving**, gaining experience in conducting and analyzing fMRI experiments.
-- In Dr. Hanna Steinunn Steingrímsdóttir's **EEG lab** (Reykjavik University, Iceland), I studied the **neural mechanisms of abstract symbol learning**, conducting EEG experiments on cognitive learning processes. 
+  📍 <span style="color:gray;">National ChengChi University, Taiwan</span>
+- In Dr. Hanna Steinunn Steingrímsdóttir's **EEG lab** (Reykjavik University, Iceland), I studied the **neural mechanisms of abstract symbol learning**, conducting EEG experiments on cognitive learning processes.
+  📍 *<span style="color:gray;">Reykjavik University, Iceland</span>*
+
 
 👩‍🎓 I obtained my bachelor's degree in Psychology in 2024 from [National ChengChi University](https://www.nccu.edu.tw/index.php?Lang=en), Taiwan, with a year of study abroad experience at [Reykjavik University](https://en.ru.is/), Iceland. 
 
