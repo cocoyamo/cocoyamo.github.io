@@ -1,7 +1,7 @@
 ---
 title: "The Influence of Emotional Schema and Color Congruency on the Trustworthiness of News"
 collection: publications
-category: conferences
+category: conference posters
 permalink: /publications/2022-12-24-the-influence-of-emotional-schema-and-color-congruency-on-the-trustworthiness-of-news
 excerpt: 'We study how colors and schema congruency affect our trust level towards the news.'
 date: 2022-12-24
