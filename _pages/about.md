@@ -7,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+# Hello I'm Moya 🦦
 
 🧠 Hello! I am a research technician in [**Neurocognition and Imaging Research Lab**](https://nirl.web.unc.edu/) at UNC Chapel Hill, with a research focus on **cognitive neuroscience**. I am particularly interested in **emotions, memory, and problem-solving**, utilizing **fMRI, EEG, ECG, PPG, and GSR** to investigate these cognitive processes. 
 
