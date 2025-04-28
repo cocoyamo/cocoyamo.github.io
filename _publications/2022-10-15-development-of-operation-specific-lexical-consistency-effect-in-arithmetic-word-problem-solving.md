@@ -3,7 +3,7 @@ title: "Development of Operation-Specific Lexical Consistency Effect in Arithmet
 collection: publications
 category: conference posters
 permalink: /publications/2022-10-15-development-of-operation-specific-lexical-consistency-effect-in-arithmetic-word-problem-solving
-excerpt: 'We investigate how students (adolescents and children) exhibit different math word problem solving results.'
+excerpt: 'We investigate age-related differences in **lexical consistency effects** on **arithmetic word problem solving**. Children showed a consistency effect on accuracy in addition problems, while adolescents displayed an adult-like pattern, with consistency affecting reaction time for addition problems. The findings suggest that **lexical consistency influences problem-solving precision in younger children**, but as they mature, their processing aligns with adult patterns.'
 date: 2022-10-15
 venue: 'Taiwanese Psychological Association (TPA) 61st Annual Meeting, Taipei, Taiwan'
 paperurl: 'http://cocoyamo.github.io/files/Moya_Poster_Operation-Specific Lexical Consistency_TPA_2022.pdf'
