@@ -8,9 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-🧠 Hello I'm Moya 🦦! I am a research technician in [**Neurocognition and Imaging Research Lab**](https://nirl.web.unc.edu/) at UNC Chapel Hill, with a research focus on **cognitive neuroscience**. I am particularly interested in **emotions, memory, and problem-solving**, utilizing **fMRI, EEG, ECG, PPG, and GSR** to investigate these cognitive processes. 
+🧠 **Hello I'm Moya 🦦!**
+I am a research technician in [**Neurocognition and Imaging Research Lab**](https://nirl.web.unc.edu/) at UNC Chapel Hill, focusing on **cognitive neuroscience**. I am particularly interested in **emotions, memory, and problem-solving**, utilizing neuroimaging techniques like **fMRI, EEG,**, and various physiological measures such as **ECG, PPG, and GSR** to investigate these cognitive processes. 
 
-🧠 Currently, I am involved in the [**STAARS project**](https://nirl.web.unc.edu/staars/) at UNC Chapel Hill, a large-scale, longitudinal study investigating the neurocognitive development of adolescents at risk for anxiety and depression. My work primarily involves data collection and analysis using **fMRI**, **EEG**, and various physiological measures such as **PPG** and **GSR**.
+🧠 **Current Project**
+I am involved in the [**STAARS project**](https://nirl.web.unc.edu/staars/) at UNC Chapel Hill, a large-scale, longitudinal study on the neurocognitive development of adolescents at risk for anxiety and depression. My work focuses on data collection and analysis, using the aforementioned techniques to explore the interplay between brain activity and physiological response in this population. 
 
 🧠 Previously, I conducted research across multiple labs:
 - At the **Brain, Emotion, and Decision-Making Lab** with Dr. Nai-Shing Yen, I explored the **effects of color-emotion congruency on trust** and the impact of **gamification on motivation**.
