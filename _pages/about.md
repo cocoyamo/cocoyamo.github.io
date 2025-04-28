@@ -15,7 +15,7 @@ I am a research technician in [**Neurocognition and Imaging Research Lab**](http
 I am involved in the [**STAARS project**](https://nirl.web.unc.edu/staars/) at UNC Chapel Hill, a large-scale, longitudinal study on the neurocognitive development of adolescents at risk for anxiety and depression. My work focuses on data collection and analysis, using the aforementioned techniques to explore the interplay between brain activity and physiological response in this population. 
 
 🧠 Previously, I conducted research across multiple labs:
-- At the **Brain, Emotion, and Decision-Making Lab** (<span style="color:red;">National ChengChi University, Taiwan</span>) with Dr. Nai-Shing Yen, I explored the **effects of color-emotion congruency on trust** and the impact of **gamification on motivation**.
+- At the **Brain, Emotion, and Decision-Making Lab** (<span style="color:red;">National ChengChi University, Taiwan</span>) with Dr. Nai-Shing Yen, I explored the **effects of color-emotion congruency on trust** and the impact of **gamification on motivation**.  
   📍 <span style="color:gray;">National ChengChi University, Taiwan</span>
 - At the [**Brain and Learning Lab**](https://bnlnccu.wixsite.com/bnlnccu/home) (National ChengChi University, Taiwan) under Dr. Ting-Ting Chang's supervision, I investigated **neural activation during math problem-solving**, gaining experience in conducting and analyzing fMRI experiments.
 - In Dr. Hanna Steinunn Steingrímsdóttir's **EEG lab** (Reykjavik University, Iceland), I studied the **neural mechanisms of abstract symbol learning**, conducting EEG experiments on cognitive learning processes. 
