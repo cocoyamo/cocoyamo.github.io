@@ -2,7 +2,7 @@
 layout: archive
 title: "Testing"
 permalink: /testing/
-author_profile: false
+author_profile: true
 ---
 
 {% include base_path %}
