@@ -33,7 +33,7 @@ author_profile: true
 
 * RStudio
   * Data visualization, data analysis, and data tidying.
-  * [I create tutorials for RStudio users.](https://cocoyamo.github.io/MMR/)
+  * [I create tutorials for RStudio users.](https://cocoyamo.github.io/R_tutorials/)
 * MATLAB
   * Stimuli presentation, response recording, and SPM analysis.
 * E-prime
