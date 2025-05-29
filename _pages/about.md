@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 🧠 **Hello I'm Moya 🦦!**  
-I am a research technician in [**Neurocognition and Imaging Research Lab**](https://nirl.web.unc.edu/) at UNC Chapel Hill, focusing on **cognitive neuroscience**. I am particularly interested in **emotions, memory, and problem-solving**, utilizing neuroimaging techniques like **fMRI, EEG**, and various physiological measures such as **ECG, PPG, and GSR** to investigate these cognitive processes. 
+I am a research assistant in [**Neurocognition and Imaging Research Lab**](https://nirl.web.unc.edu/) at UNC Chapel Hill, focusing on **cognitive neuroscience**. I am particularly interested in **emotions, memory, and problem-solving**, utilizing neuroimaging techniques like **fMRI, EEG**, and various physiological measures such as **ECG, PPG, and GSR** to investigate these cognitive processes. 
 
 🧠 **Current Project**  
 I am involved in the [**STAARS project**](https://nirl.web.unc.edu/staars/) at UNC Chapel Hill, a large-scale, longitudinal study on the neurocognitive development of adolescents at risk for anxiety and depression. My work focuses on data collection and analysis, using the aforementioned techniques to explore the interplay between brain activity and physiological response in this population. 
