@@ -32,13 +32,15 @@ review).
 
 | **Core Functions**| **Higher Functions**|
 |------------------------|------------------------|
-| - Memory  <br>- Human Learning <br>- Problem-Solving| - Decision-Making <br>- Emotions on Trust and Memory|
+| - Attention <br>- Memory  <br>- Human Learning <br>- Problem-Solving| - Decision-Making <br>- Emotions on Trust and Memory|
 
 ## Skills
 
 * RStudio
   * Data visualization, data analysis, and data tidying.
   * [I create tutorials for RStudio users.](https://cocoyamo.github.io/R_tutorials/)
+* FSL
+  * Imaging analysis, quality check.
 * MATLAB
   * Stimuli presentation, response recording, and SPM analysis.
 * E-prime
