@@ -18,7 +18,7 @@ author_profile: true
 ## Publication / Conference Paper
 
 * Edmunds, K. J., **Chu, M.-Y.**, Arntzen, E., Gargiulo, P., & Steingrimsdóer, H. S. (January 2025).
-*Feedback-Related Event-Related Poten2als in Condi2onal Discrimina2on: Insights from a
+*Feedback-Related Event-Related Potentials in Conditional Discrimination: Insights from a
 Matching-to-Sample Study.* Frontiers in Human Neuroscience. (Manuscript under
 review).
 
