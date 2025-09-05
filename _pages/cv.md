@@ -17,9 +17,14 @@ author_profile: true
 
 ## Publication / Conference Paper
 
-* **Chu, M.-Y.**, Chen, X.-Y., Ng, C.-T., & Chang, T.-T. (2024, Apr). *Age-Related Differences in Brain Responses in Mathematical Problem-Solving Among Children and Adolescents* [[Poster presentation]](https://drive.google.com/file/d/1Q0_EK53GOz_IsXdYEZF0KowGXeJmAUXl/view?usp=sharing). Cognitive Neuroscience Society (CNS) 31st Annual Meeting, Toronto, Canada.
+* Edmunds, K. J., **Chu, M.-Y.**, Arntzen, E., Gargiulo, P., & Steingrimsdóer, H. S. (January 2025).
+*Feedback-Related Event-Related Poten2als in Condi2onal Discrimina2on: Insights from a
+Matching-to-Sample Study.* Frontiers in Human Neuroscience. (Manuscript under
+review).
 
-* **Chu, M.-Y.**, Ng, C.-T., & Chang, T.-T. (2022, Oct). *Development of operation-specific lexical consistency effect in arithmetic word problem solving* [[Poster presentation]](https://drive.google.com/file/d/1st2-dYBIgump6WqU10XRUd78vQZBWpzf/view?usp=sharing). Taiwanese Psychological Association (TPA) 61st Annual Meeting, Taipei City, Taiwan.
+* **Chu, M.-Y.**, Chen, X.-Y., Ng, C.-T., & Chang, T.-T. (April 2024). *Age-Related Differences in Brain Responses in Mathematical Problem-Solving Among Children and Adolescents* [[Poster presentation]](https://drive.google.com/file/d/1Q0_EK53GOz_IsXdYEZF0KowGXeJmAUXl/view?usp=sharing). Cognitive Neuroscience Society (CNS) 31st Annual Meeting, Toronto, Canada.
+
+* **Chu, M.-Y.**, Ng, C.-T., & Chang, T.-T. (October 2022). *Development of operation-specific lexical consistency effect in arithmetic word problem solving* [[Poster presentation]](https://drive.google.com/file/d/1st2-dYBIgump6WqU10XRUd78vQZBWpzf/view?usp=sharing). Taiwanese Psychological Association (TPA) 61st Annual Meeting, Taipei City, Taiwan.
 
 ## Research Interests 🧠🪄
 
