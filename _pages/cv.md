@@ -36,7 +36,7 @@ review).
 
 ## Skills
 
-* RStudio
+* R
   * Data visualization, data analysis, and data tidying.
   * [I create tutorials for RStudio users.](https://cocoyamo.github.io/R_tutorials/)
 * FSL
