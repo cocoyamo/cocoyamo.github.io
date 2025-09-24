@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-### [📄 Download my full CV here](https://drive.google.com/file/d/10UoScZnxuDHXm8bqQe0636xQO03fuwC-/view?usp=sharing)
+### [📄 Download my full CV here](https://drive.google.com/file/d/1R8Zh2bjyV5PQCSunvIq_iSmR2sNMnzZw/view?usp=sharing)
 
 
 ## Education
