@@ -19,7 +19,7 @@ author_profile: true
 
 * **Chu, M.Y.**, Pudipeddi, S., Truong, Y. K., Belger, A. (March 2026). *Distinct Cortisol Reactivity Profiles Across Psychosocial Stressor Paradigms.* [[Paper talk]] (). Southeastern Psychological Association (SEPA) 72nd Annual Meeting, New Orleans, LA, U.S.A.
 
-* Edmunds, K. J., **Chu, M. Y.**, Arntzen, E., Gargiulo, P., & Steingrimsdottir, H. S. (Feburary 2026). *Feedback-driven event-related potentials in conditional discrimination: insights from a matching-to-sample study.* [[Journal Article]] (https://pmc.ncbi.nlm.nih.gov/articles/PMC12963060/) Frontiers in Human Neuroscience, 20, 1557497.
+* Edmunds, K. J., **Chu, M. Y.**, Arntzen, E., Gargiulo, P., & Steingrimsdottir, H. S. (Feburary 2026). *Feedback-driven event-related potentials in conditional discrimination: insights from a matching-to-sample study.* [[Journal Article]](https://pmc.ncbi.nlm.nih.gov/articles/PMC12963060/) Frontiers in Human Neuroscience, 20, 1557497.
 
 * **Chu, M.-Y.**, Chen, X.-Y., Ng, C.-T., & Chang, T.-T. (April 2024). *Age-Related Differences in Brain Responses in Mathematical Problem-Solving Among Children and Adolescents* [[Poster presentation]](https://drive.google.com/file/d/1Q0_EK53GOz_IsXdYEZF0KowGXeJmAUXl/view?usp=sharing). Cognitive Neuroscience Society (CNS) 31st Annual Meeting, Toronto, Canada.
 
