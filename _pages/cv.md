@@ -48,6 +48,7 @@ review).
 
 ## Awards and Honors
 
+* 2026 **Outstanding Professional Paper Award**, *Southeastern Psychological Association 72nd Annual Meeting, New Orleans, LA, U.S.A.*
 * 2023 **College Student Research Creativity Award**, *National Science and Technology Council, Taiwan*
 * 2023 **Scholarships for Excellent Students to Study Abroad**, *Ministry of Education, Taiwan*
 * 2023 **Academic Year Glory Sashes Winners** (total average grade ranked 1st in psychology department), *National ChengChi University, Taiwan*
